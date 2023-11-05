@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LastDanceCuervo
+- 🌱 I’m currently learning Python ...
+- 💞️ I'm thinking of collaborating on things that might help me.
